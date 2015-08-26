@@ -1,3 +1,6 @@
+#Ignore Test Directory
+Test/
+
 *.class
 
 # Mobile Tools for Java (J2ME)
